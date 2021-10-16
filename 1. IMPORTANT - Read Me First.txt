@@ -1,0 +1,28 @@
+If you are using an older version of Foodomaa and if you want to keep all your uploaded images (Item Images, Restaurant Images, Logos, Favicons, Translations, etc.), use the "Upgrade from older version" folder.
+
+If you want to start fresh, use the "Fresh Installation" folder.
+
+----------------------------------------------------------
+
+**IMPORTANT**
+
+Even if you are using the "Upgrade from older version" folder, the changes made to the core files (PHP files, Blade Files, CSS, and JS files) will be overridden with the new files present in the package.
+
+
+----------------------------------------------------------
+
+Links to the Online Documentation
+
+Installation:
+https://docs.foodomaa.com/installation/installation-on-server
+
+Update:
+https://docs.foodomaa.com/installation/update-from-an-older-version
+
+Google Maps API Configuration:
+https://docs.foodomaa.com/configurations/google-maps-api-keys
+
+----------------------------------------------------------
+
+Foodomaa Official Forums:
+https://discuss.foodomaa.com
